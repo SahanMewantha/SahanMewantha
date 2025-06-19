@@ -112,7 +112,7 @@ const sahan = {
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ### 🎵 Currently Vibing To
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing?username=neye4ilb13xgj74zxsw0mctpx)](https://spotify-github-profile.vercel.app/api/spotify-playing?username=neye4ilb13xgj74zxsw0mctpx)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=neye4ilb13xgj74zxsw0mctpx&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
   **Show some ❤️ by starring some repositories!**
   
