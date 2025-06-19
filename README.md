@@ -63,7 +63,7 @@ const sahan = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanmewantha&theme=tokyonight" alt="GitHub Streak" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanmewantha&theme=tokyonight&hide_border=true" alt="sahanmewantha" /></p>
 </div>
 
 <div align="center">
